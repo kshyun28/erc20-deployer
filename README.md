@@ -22,7 +22,7 @@ contract Token is ERC20, ERC20Burnable {
 ```
 
 3. Enter deployer mnemonic in `.env`, e.g.
-```toml
+```
 MNEMONIC=this is a sample mnemonic only which it really is
 ```
 
